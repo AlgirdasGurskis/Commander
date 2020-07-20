@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pFYyVuODC+l/p4/6qSHbQeZ3kjpVDCHbLAW9sST55925a1gUuODVe+2PfkEuhwKxM0AAKlQ4skVV+ajBFElQyA==",
+  "dgSpecHash": "GOK3vR7ooBP+5tEwOQUxlONDPYucKhUsTx0aboY2lqZz1l1FTdUub2gBDuxFwFGXGSiwW8lVZiVK4WC+I5Tm0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Algirdas\\source\\repos\\Commander\\Commander.csproj",
+  "projectFilePath": "C:\\Users\\Algirdas\\source\\repos\\Commander2\\Commander.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Algirdas\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Algirdas\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

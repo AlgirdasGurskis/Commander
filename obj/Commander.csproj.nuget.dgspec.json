@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Algirdas\\source\\repos\\Commander\\Commander.csproj": {}
+    "C:\\Users\\Algirdas\\source\\repos\\Commander2\\Commander.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Algirdas\\source\\repos\\Commander\\Commander.csproj": {
+    "C:\\Users\\Algirdas\\source\\repos\\Commander2\\Commander.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Algirdas\\source\\repos\\Commander\\Commander.csproj",
+        "projectUniqueName": "C:\\Users\\Algirdas\\source\\repos\\Commander2\\Commander.csproj",
         "projectName": "Commander",
-        "projectPath": "C:\\Users\\Algirdas\\source\\repos\\Commander\\Commander.csproj",
+        "projectPath": "C:\\Users\\Algirdas\\source\\repos\\Commander2\\Commander.csproj",
         "packagesPath": "C:\\Users\\Algirdas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Algirdas\\source\\repos\\Commander\\obj\\",
+        "outputPath": "C:\\Users\\Algirdas\\source\\repos\\Commander2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Algirdas\\AppData\\Roaming\\NuGet\\NuGet.Config",
