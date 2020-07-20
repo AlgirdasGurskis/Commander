@@ -7,11 +7,13 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 //
+//  Note: Twis C# MVC web API REST // have GET 
+//
 // https://www.youtube.com/watch?v=fmvcAzHpsk8
 // >dotnet run  // execute app, and after that run Postman 
 //       postman: algisgenesis@gmail.com	Algirdas1959
 //       [LaunchPad] + http://localhost:5000/api/commands/4 [Send]
-
+//
 namespace Commander
 {
     public class Program
